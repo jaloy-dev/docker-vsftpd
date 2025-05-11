@@ -1,7 +1,5 @@
 # FTP Server for Local Development Environments
 
-![Docker Logo](https://www.gravatar.com/avatar/def8e498c0e2b4d1b0cb398ca164cddd?s=115) ![The Wilds Logo](https://www.gravatar.com/avatar/731d4f0ca8553a4f4b2a4f35d1d72280?s=115)
-
 **Disclaimer:** This container was created with a local development environment in mind and
 therefore may not be very secure.
 
